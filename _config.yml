@@ -59,7 +59,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Santander
+        title: Santander Brasil
         link: https://www.santander.com.br/
         # link_text: boringcompany.com
         sub_title: Data & Analytics Leader Sr 
