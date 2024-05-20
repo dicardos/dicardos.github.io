@@ -54,13 +54,6 @@ about_content: |
   
   I am passionate about leveraging data to inform strategic decisions and enhance operational efficiencies. I specialize in applying my knowledge to solve complex business problems, driving innovative solutions that deliver measurable results.
 
-  
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
