@@ -97,7 +97,7 @@ content:
         sub_title: MSc Electrical Engineering
         quote: 
         description: |
-          During my master's program at University of São Paulo, I focused on advanced research and practical applications in the field of statistical signal processing and machine learning. 
+          During my master's program at University of São Paulo, I focused on advanced research and practical applications in the field of <mark>statistical signal processing</mark> and <mark>machine learning</mark>. 
       
       - layout: left
         title: University of Manitoba (UofM)
