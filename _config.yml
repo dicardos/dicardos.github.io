@@ -98,7 +98,8 @@ content:
         quote: 
         description: |
           During my master's program at University of São Paulo, I focused on advanced research and practical applications in the field of <mark>statistical signal processing</mark> and <mark>machine learning</mark>. 
-      
+
+          Conducted in-depth research on air pollution, developing innovative solutions to estimate ground-level ozone and explain its behavior over time. My dissertation provided valuable insights into the temporal dynamics and influencing factors of ozone levels.
       - layout: left
         title: University of Manitoba (UofM)
         caption: 2013 - 2014
