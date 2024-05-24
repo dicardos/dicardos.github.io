@@ -61,10 +61,7 @@ content:
       - layout: left
         title: Santander Brasil
         link: https://www.santander.com.br/
-        # link_text: boringcompany.com
         sub_title: Data & Analytics Leader Sr
-        sub_title: Data & Analytics Leader Sr2
-        sub_title: Data & Analytics Leader Sr1
         caption: March 2019 - Present
         quote: 
         description: |
@@ -73,7 +70,6 @@ content:
       - layout: left
         title: Vivo (Telefônica Brasil)
         link: https://www.telefonica.com.br/
-        # link_text: boringcompany.com
         sub_title: Senior Data Scientist
         caption: July 2016 - February 2019
         quote: 
@@ -83,7 +79,6 @@ content:
       - layout: left
         title: Raízen
         link: https://www.raizen.com.br/
-        # link_text: boringcompany.com
         sub_title: Intern
         caption: January 2016 - June 2016
         quote: 
