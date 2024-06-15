@@ -112,11 +112,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      Hello! I hold Brazilian and Spanish/European citizenship, allowing me to embrace diverse cultural and linguistic experiences. I have a keen interest in emerging technologies and enjoy outdoor sports such as hiking and rock climbing. I am passionate about continuous learning and constantly exploring new programming languages, including Python, JavaScript, and SQL. I thrive on challenges that push me to expand my horizons and apply my creativity.
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Hello! I hold Brazilian and Spanish/European citizenship, which allows me to embrace diverse cultural and linguistic experiences. When I’m not pursuing emerging technologies, I enjoy outdoor sports such as hiking and rock climbing. I am passionate about continuous learning and am constantly exploring new programming languages. I thrive on challenges that push me to expand my horizons and apply my creativity.
 
 
 # Footer
