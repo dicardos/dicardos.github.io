@@ -83,8 +83,8 @@ content:
         caption: January 2016 - June 2016
         quote: 
         description: |
-          Every company needs its networks properly administered and The Boring Company is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          During my internship, I developed Machine Learning models to predict sugarcane mill output, total recoverable sugar content (TRS), and tonnes of sugarcane per hectare (TCH). I also utilized clustering techniques and descriptive statistical analysis to evaluate planting failures using unmanned aerial vehicle (UAV) images.
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
